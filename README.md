@@ -4,7 +4,7 @@ I am Alihan. I born in 1997. I am interesting to development since 2015. I inter
 ### I'm a Developer and Student 👋
 - 🌱 You can see some my projects here 
 - 📱 I can develop android app with Kotlin
-- ✨ 2021 Goals: Develop a good app!
+- ✨ 2023 Goals: Develop a good app!
 - ⚡ Fun fact: I'm interesting play guitar🎸 and dubbing🎤.
 
 ### 🤸‍♂️ I’m currently learning
